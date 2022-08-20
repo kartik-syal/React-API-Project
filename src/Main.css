@@ -1,0 +1,12 @@
+body {
+    background-color: #212529;
+}
+
+.btn {
+    border: "none";
+    background-color: "transparent";
+}
+
+.btnn :hover {
+    background-color: rgb(42, 230, 230);
+}
